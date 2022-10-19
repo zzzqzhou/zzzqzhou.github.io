@@ -16,7 +16,7 @@ window.MathJax = {
   })
 
   function mo(){
-    document.getElementById("img").src="./imgs/zzq.jpg";
+    document.getElementById("img").src="./imgs/my.JPG";
     }
     function mout(){
     document.getElementById("img").src="./imgs/img1.jpg";
