@@ -1,11 +1,20 @@
-.pdf {
+.cv {
     color: rgb(255, 0, 0);
+  }
+.pdf {
+    color: rgb(179, 11, 0);
   }
 .twitter {
   color: #1DA1F2;
 }
 .github {
   color: #101111;
+}
+.gmail {
+  color:rgb(237, 78, 0)
+}
+.slides{
+  color: rgb(183, 71, 42);
 }
 
 /* :root {
