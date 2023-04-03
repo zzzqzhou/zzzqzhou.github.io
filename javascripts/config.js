@@ -16,9 +16,9 @@ window.MathJax = {
   })
 
   function mo(){
-    document.getElementById("img").src="./imgs/my.JPG";
+    document.getElementById("img").src="./imgs/Ziqi.jpg";
     }
     function mout(){
-    document.getElementById("img").src="./imgs/img1.jpg";
+    document.getElementById("img").src="./imgs/Ziqi_sketch.png";
     }
   
